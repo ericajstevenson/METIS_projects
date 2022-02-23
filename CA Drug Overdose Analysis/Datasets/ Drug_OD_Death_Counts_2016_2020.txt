@@ -1,0 +1,218 @@
+County	Year	Deaths	Population	Crude Rate
+"Alameda County, CA"	2016	173	1357281	12.7
+"Alameda County, CA"	2017	142	1373671	10.3
+"Alameda County, CA"	2018	204	1379242	14.8
+"Alameda County, CA"	2019	275	1386596	19.8
+"Alameda County, CA"	2020	342	1382325	24.7
+"Amador County, CA"	2019	13	34773	Unreliable
+"Butte County, CA"	2016	75	189173	39.6
+"Butte County, CA"	2017	50	191180	26.2
+"Butte County, CA"	2018	67	192758	34.8
+"Butte County, CA"	2019	56	182301	30.7
+"Butte County, CA"	2020	73	177143	41.2
+"Calaveras County, CA"	2019	12	39560	Unreliable
+"Calaveras County, CA"	2020	11	39959	Unreliable
+"Contra Costa County, CA"	2016	137	919961	14.9
+"Contra Costa County, CA"	2017	132	932423	14.2
+"Contra Costa County, CA"	2018	176	937102	18.8
+"Contra Costa County, CA"	2019	177	941807	18.8
+"Contra Costa County, CA"	2020	249	943131	26.4
+"Del Norte County, CA"	2020	14	23115	Unreliable
+"El Dorado County, CA"	2016	44	155253	28.3
+"El Dorado County, CA"	2017	32	158357	20.2
+"El Dorado County, CA"	2018	37	160008	23.1
+"El Dorado County, CA"	2019	33	161998	20.4
+"El Dorado County, CA"	2020	41	162396	25.2
+"Fresno County, CA"	2016	152	744189	20.4
+"Fresno County, CA"	2017	135	752110	17.9
+"Fresno County, CA"	2018	128	756973	16.9
+"Fresno County, CA"	2019	153	762351	20.1
+"Fresno County, CA"	2020	194	765878	25.3
+"Glenn County, CA"	2020	12	21994	Unreliable
+"Humboldt County, CA"	2016	61	114429	53.3
+"Humboldt County, CA"	2017	51	114798	44.4
+"Humboldt County, CA"	2018	42	114519	36.7
+"Humboldt County, CA"	2019	51	114178	44.7
+"Humboldt County, CA"	2020	49	113817	43.1
+"Imperial County, CA"	2016	39	137482	28.4
+"Imperial County, CA"	2017	22	138892	15.8
+"Imperial County, CA"	2018	45	138329	32.5
+"Imperial County, CA"	2019	33	137845	23.9
+"Imperial County, CA"	2020	64	137265	46.6
+"Inyo County, CA"	2018	10	14874	Unreliable
+"Kern County, CA"	2016	215	668179	32.2
+"Kern County, CA"	2017	237	675525	35.1
+"Kern County, CA"	2018	240	679170	35.3
+"Kern County, CA"	2019	278	683103	40.7
+"Kern County, CA"	2020	367	685580	53.5
+"Kings County, CA"	2016	12	115213	Unreliable
+"Kings County, CA"	2017	16	115528	Unreliable
+"Kings County, CA"	2018	22	116620	18.9
+"Kings County, CA"	2019	28	117825	23.8
+"Kings County, CA"	2020	23	117980	19.5
+"Lake County, CA"	2016	22	53042	41.5
+"Lake County, CA"	2017	31	53121	58.4
+"Lake County, CA"	2018	45	53098	84.7
+"Lake County, CA"	2019	48	52936	90.7
+"Lake County, CA"	2020	50	52856	94.6
+"Lassen County, CA"	2016	12	26486	Unreliable
+"Lassen County, CA"	2019	12	26137	Unreliable
+"Lassen County, CA"	2020	11	25555	Unreliable
+"Los Angeles County, CA"	2016	866	8273556	10.5
+"Los Angeles County, CA"	2017	975	8319324	11.7
+"Los Angeles County, CA"	2018	1037	8287058	12.5
+"Los Angeles County, CA"	2019	1318	8257518	16
+"Los Angeles County, CA"	2020	2127	8203674	25.9
+"Madera County, CA"	2016	20	119249	16.8
+"Madera County, CA"	2017	20	121042	16.5
+"Madera County, CA"	2018	12	121324	Unreliable
+"Madera County, CA"	2019	33	121168	27.2
+"Madera County, CA"	2020	25	121780	20.5
+"Marin County, CA"	2016	41	216627	18.9
+"Marin County, CA"	2017	38	218009	17.4
+"Marin County, CA"	2018	32	217642	14.7
+"Marin County, CA"	2019	43	217565	19.8
+"Marin County, CA"	2020	60	217270	27.6
+"Mendocino County, CA"	2016	29	71905	40.3
+"Mendocino County, CA"	2017	27	72213	37.4
+"Mendocino County, CA"	2018	32	72007	44.4
+"Mendocino County, CA"	2019	43	71510	60.1
+"Mendocino County, CA"	2020	42	70950	59.2
+"Merced County, CA"	2016	43	201992	21.3
+"Merced County, CA"	2017	34	205717	16.5
+"Merced County, CA"	2018	42	207832	20.2
+"Merced County, CA"	2019	48	210188	22.8
+"Merced County, CA"	2020	54	212201	25.4
+"Monterey County, CA"	2016	53	338268	15.7
+"Monterey County, CA"	2017	46	341054	13.5
+"Monterey County, CA"	2018	54	339801	15.9
+"Monterey County, CA"	2019	67	339663	19.7
+"Monterey County, CA"	2020	101	337944	29.9
+"Napa County, CA"	2016	12	117357	Unreliable
+"Napa County, CA"	2017	14	116747	Unreliable
+"Napa County, CA"	2018	17	115998	Unreliable
+"Napa County, CA"	2019	20	115247	17.4
+"Napa County, CA"	2020	23	114210	20.1
+"Nevada County, CA"	2016	18	85054	Unreliable
+"Nevada County, CA"	2017	19	85738	Unreliable
+"Nevada County, CA"	2018	15	85771	Unreliable
+"Nevada County, CA"	2019	17	85947	Unreliable
+"Nevada County, CA"	2020	37	85875	43.1
+"Orange County, CA"	2016	429	2586990	16.6
+"Orange County, CA"	2017	386	2610066	14.8
+"Orange County, CA"	2018	426	2610167	16.3
+"Orange County, CA"	2019	422	2607108	16.2
+"Orange County, CA"	2020	663	2606037	25.4
+"Placer County, CA"	2016	51	310958	16.4
+"Placer County, CA"	2017	45	315832	14.2
+"Placer County, CA"	2018	50	321726	15.5
+"Placer County, CA"	2019	69	326471	21.1
+"Placer County, CA"	2020	72	330760	21.8
+"Riverside County, CA"	2016	375	1883084	19.9
+"Riverside County, CA"	2017	429	1915524	22.4
+"Riverside County, CA"	2018	469	1942278	24.1
+"Riverside County, CA"	2019	490	1963827	25
+"Riverside County, CA"	2020	734	1986216	37
+"Sacramento County, CA"	2016	252	1211525	20.8
+"Sacramento County, CA"	2017	258	1226646	21
+"Sacramento County, CA"	2018	289	1237177	23.4
+"Sacramento County, CA"	2019	367	1249188	29.4
+"Sacramento County, CA"	2020	323	1257309	25.7
+"San Benito County, CA"	2020	10	50557	Unreliable
+"San Bernardino County, CA"	2016	220	1665781	13.2
+"San Bernardino County, CA"	2017	281	1683212	16.7
+"San Bernardino County, CA"	2018	316	1695465	18.6
+"San Bernardino County, CA"	2019	287	1706154	16.8
+"San Bernardino County, CA"	2020	559	1717494	32.5
+"San Diego County, CA"	2016	461	2708316	17
+"San Diego County, CA"	2017	502	2727049	18.4
+"San Diego County, CA"	2018	521	2737160	19
+"San Diego County, CA"	2019	544	2738832	19.9
+"San Diego County, CA"	2020	806	2740478	29.4
+"San Francisco County, CA"	2016	196	769862	25.5
+"San Francisco County, CA"	2017	191	782525	24.4
+"San Francisco County, CA"	2018	243	781561	31.1
+"San Francisco County, CA"	2019	409	780370	52.4
+"San Francisco County, CA"	2020	555	767332	72.3
+"San Joaquin County, CA"	2016	117	567091	20.6
+"San Joaquin County, CA"	2017	150	576938	26
+"San Joaquin County, CA"	2018	134	582981	23
+"San Joaquin County, CA"	2019	139	592314	23.5
+"San Joaquin County, CA"	2020	176	598457	29.4
+"San Luis Obispo County, CA"	2016	46	240890	19.1
+"San Luis Obispo County, CA"	2017	49	241511	20.3
+"San Luis Obispo County, CA"	2018	47	242530	19.4
+"San Luis Obispo County, CA"	2019	53	242143	21.9
+"San Luis Obispo County, CA"	2020	88	241795	36.4
+"San Mateo County, CA"	2016	54	629494	8.6
+"San Mateo County, CA"	2017	82	637540	12.9
+"San Mateo County, CA"	2018	68	637635	10.7
+"San Mateo County, CA"	2019	100	637828	15.7
+"San Mateo County, CA"	2020	125	633250	19.7
+"Santa Barbara County, CA"	2016	72	362503	19.9
+"Santa Barbara County, CA"	2017	71	364482	19.5
+"Santa Barbara County, CA"	2018	72	363515	19.8
+"Santa Barbara County, CA"	2019	84	363665	23.1
+"Santa Barbara County, CA"	2020	93	362552	25.7
+"Santa Clara County, CA"	2016	161	1556383	10.3
+"Santa Clara County, CA"	2017	172	1578666	10.9
+"Santa Clara County, CA"	2018	177	1583848	11.2
+"Santa Clara County, CA"	2019	224	1582662	14.2
+"Santa Clara County, CA"	2020	307	1571452	19.5
+"Santa Cruz County, CA"	2016	48	229730	20.9
+"Santa Cruz County, CA"	2017	45	231321	19.5
+"Santa Cruz County, CA"	2018	49	230488	21.3
+"Santa Cruz County, CA"	2019	59	230503	25.6
+"Santa Cruz County, CA"	2020	64	228470	28
+"Shasta County, CA"	2016	43	147755	29.1
+"Shasta County, CA"	2017	41	147840	27.7
+"Shasta County, CA"	2018	42	148072	28.4
+"Shasta County, CA"	2019	44	147825	29.8
+"Shasta County, CA"	2020	59	146949	40.1
+"Siskiyou County, CA"	2016	17	36384	Unreliable
+"Siskiyou County, CA"	2017	10	36499	Unreliable
+"Siskiyou County, CA"	2018	11	36345	Unreliable
+"Siskiyou County, CA"	2020	12	36004	Unreliable
+"Solano County, CA"	2016	51	357838	14.3
+"Solano County, CA"	2017	64	363126	17.6
+"Solano County, CA"	2018	88	364536	24.1
+"Solano County, CA"	2019	82	365718	22.4
+"Solano County, CA"	2020	89	365659	24.3
+"Sonoma County, CA"	2016	69	419901	16.4
+"Sonoma County, CA"	2017	78	421928	18.5
+"Sonoma County, CA"	2018	86	419337	20.5
+"Sonoma County, CA"	2019	106	416164	25.5
+"Sonoma County, CA"	2020	152	413263	36.8
+"Stanislaus County, CA"	2016	95	419113	22.7
+"Stanislaus County, CA"	2017	84	424192	19.8
+"Stanislaus County, CA"	2018	96	425855	22.5
+"Stanislaus County, CA"	2019	102	427199	23.9
+"Stanislaus County, CA"	2020	149	427478	34.9
+"Sutter County, CA"	2016	12	75688	Unreliable
+"Sutter County, CA"	2017	10	75766	Unreliable
+"Sutter County, CA"	2018	19	76034	Unreliable
+"Sutter County, CA"	2020	24	76171	31.5
+"Tulare County, CA"	2016	45	340186	13.2
+"Tulare County, CA"	2017	44	344403	12.8
+"Tulare County, CA"	2018	59	346506	17
+"Tulare County, CA"	2019	43	347637	12.4
+"Tulare County, CA"	2020	76	351002	21.7
+"Tuolumne County, CA"	2016	20	46418	43.1
+"Tuolumne County, CA"	2017	13	46740	Unreliable
+"Tuolumne County, CA"	2019	16	46864	Unreliable
+"Tuolumne County, CA"	2020	11	46921	Unreliable
+"Ventura County, CA"	2016	113	684649	16.5
+"Ventura County, CA"	2017	153	690779	22.1
+"Ventura County, CA"	2018	143	690567	20.7
+"Ventura County, CA"	2019	142	689028	20.6
+"Ventura County, CA"	2020	196	687657	28.5
+"Yolo County, CA"	2016	34	177651	19.1
+"Yolo County, CA"	2017	28	180714	15.5
+"Yolo County, CA"	2018	23	181968	12.6
+"Yolo County, CA"	2019	30	182686	16.4
+"Yolo County, CA"	2020	37	182629	20.3
+"Yuba County, CA"	2016	16	57803	Unreliable
+"Yuba County, CA"	2017	20	59134	33.8
+"Yuba County, CA"	2018	16	59718	Unreliable
+"Yuba County, CA"	2019	12	60353	Unreliable
+"Yuba County, CA"	2020	19	61563	Unreliable
